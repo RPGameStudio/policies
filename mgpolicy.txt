@@ -1,0 +1,224 @@
+Privacy Policy of the Mighty Guild: Treasure Hunters project (the "Project")
+(Revised as of June 25, 2020)
+
+This Privacy Policy (hereinafter - the "Policy") is designed in such a to make its content as clear as possible. Policy defines:
+
+methods for collecting information about you;
+the purposes for which we collect such information;
+the procedure for using information;
+information processing methods;
+the procedure for managing and accessing information provided to you.
+Please review our Privacy Policy (hereinafter referred to as the "Policy") to understand what type of data, for what purposes and in which ways we can process. The content of the updated Policy is made as clear as possible.
+
+If you have any questions or suggestions regarding our Policy, please send us an e-mail to: redpandasgamestudio@gmail.com.
+
+We may update this Privacy Policy by posting a notice in the Project before such changes take effect.
+
+Data processing is carried out by us solely for the purposes defined by this Policy and with your prior consent, collected by us by means of a separate notification. Please note that you have the right to withdraw consent at any time, in the manner specified by this Policy. We do not request your consent to the storage and/or processing of your data by this Policy.
+
+You provide consent to the storage, processing, transfer (including cross-border, if the provision of the Services requires it) by submitting your Data to us. By accepting this Policy, you also accept the Terms of Service.
+
+By accepting this Policy you acknowledge and agree that you have reached the age allowing you to enter into such binding agreement in the country of your residence or domicile, or that you have your parent or legal guardian's permission (if required by applicable law). Child is a person that has not reached the minimum age required to provide the consent for Data collection and processing in accordance with applicable laws of the resident country.
+
+1. DATA SECURITY
+
+RPGame respects the confidentiality of your data and strives to ensure the highest level of protection. Despite the measures we are taking to protect your information, any measures that we apply will not have any effect if you neglect the data security.
+
+WARNING! The following actions are prohibited by this Policy and the Terms, and may also violate the confidentiality of your data:
+
+- transfer of information about the Account and (or) access rights to third parties. Please note that our official representative will never request access to your Account;
+
+- the use of unauthorized third-party programs, the use of robot programs and (or) programs that change the game process, including assistance in the game process. In addition to the fact that the use of such programs is expressly prohibited by the Terms, they may contain malicious software that could harm the security of your data;
+
+- the acquisition of in-game values from third parties. By acquiring in-game values bypassing the Terms of Use, you can become a victim of fraudsters.
+
+2. PROCESSED DATA
+
+In general, by "Data" we mean any information that identifies, relates to, describes, or is reasonably capable of being associated with a particular individual. By the "Data", we also refer to any information that relates to you and usage of the Services. All information of your activity in the Project and (or) Service processed by us where it is necessary for providing access to the Project and (or) Services, is hereinafter referred to as the "Account". Subject to the provisions of this Policy, the Data may include but not limited to the following: your full name, your address, your telephone number, your e-mail address, your age, your gender, your intra-project behavior. Despite the fact that the data processed by us may not include data of the "personal data" category, we treat all information associated with your Account as personal data.
+
+WARNING! We may ask you for additional information to complete the request. It is necessary to ensure the security of your data.
+
+Depending on the type of platform and the type of device on which you use the Project, we may process a different amount of information about you, which may include your personal data, unless otherwise expressly specified in this Policy. We always use the principle of the information minimization to provide you with the highest quality Services and comply with generally accepted industry standards for the protection of the data provided to us (hereinafter referred to as the "Data"), both during transmission and immediately after its receipt.
+
+Methods of collecting information (categories of sources used in the collection).
+
+2.1. Data you provide by yourself. We include the following information that you provide to this type of data:
+
+- date of creating an Account;
+
+- your use of social functions and channels for communicating with other people in the Project;
+
+- purchases or financial transactions, such as in-house purchases and / or received prizes;
+
+- technical and support services.
+
+WARNING! We are not responsible for the relevance, correctness, completeness or quality of the information you provide. When you place the data indicated independently, we proceed from the presumption of your good faith, accept the specified information as relevant, correct, complete and reliable. If you indicate inaccurate and (or) irrelevant information, access to a number of Services may be limited for you, and a technical support and support services regarding the processing of personal data is suspended until the confirmation of your ownership of the specified information. These measures are necessary to ensure the protection of your data.
+
+2.2. Information we receive or generate as a result of your use of the Project. We may collect data related to your use of the Project and your in-game activity, to your use of our services and the nature of this use and to your devices. The collection of such information is necessary for the analysis of possible technical errors in the Project and their timely elimination. The processing of information about your in-game activity is related to the social nature of our Project, the results of your in-game actions are reflected throughout the in-game world.
+
+2.3. Information collected from external sources. We may receive information about you and your actions from third parties when you connect external accounts; from advertisers or service providers about your contacts and interactions with them.
+
+3. PROVISION OF DATA TO THIRD PARTIES
+
+In order to provide the Services, we may provide the Data to suppliers or agents working on our behalf. For example, we may transfer information collected about you to provide technical support services to users, as well as to investigate and resolve technical problems that arise, monitor and improve the quality of our Services. Such companies may be located within the European Economic Area or in countries that provide an adequate level of protection of personal data, as understood in accordance with the Regulation. We may transfer anonymous information that does not allow you to be identified as a person to suppliers who may be located in countries outside the European Economic Area.
+
+A list of such companies can be obtained on request in the Project or by contacting redpandasgamestudio@gmail.com. These companies may access and process your data in accordance with their own privacy policies. We encourage you to review their privacy policies to learn more about how they process data.
+
+Since access to the Project is provided to all users free of charge, the main factor in the commercial implementation of the Project is the possibility of introducing advertising within the Project. We are not responsible for the content of commercials; we do not carry out their moderation and selection. We use your data for purposes that do not harm your privacy and reasonably could be expected by you when using the Project. The use of information for:
+
+- targeting advertisements through the Paid Media channel (paid media);
+
+- targeting advertisements through the Custom Audience channel (specialized audience) or similar systems - showing relevant advertisements to players based on their previous purchases;
+
+The following partners can integrate advertising: Facebook, Adform, Auditorius, Holimetrics, Criteo, Bing, AdRoll, Quatcast, Pinterest, Reddit, Accelerize Inc., MyTarget, Taboola. You can request the current list of partners here: redpandasgamestudio@gmail.com.
+
+We undertake to receive your informed and unambiguous consent for integrating additional services for displaying personalized advertisements within the Project, which improve the quality of the advertising offered to you, when it requires the transfer of your personal data to third parties and your consent.
+
+Duration of data storage: We process and store Data during the Project period and within thirty (30) days from the confirmation of the request for deletion, except for the information that is necessary to fulfill the requirements of applicable law (for example, in the field of taxation and accounting) and anonymous information. We do not control the data published by you or copied by other users, as well as the data published in the chat of the Project (if applicable) or on thematic groups and forums. After deleting your data, your anonymized account can be saved in the Project if it is used in conjunction with other users.
+
+Information contains personal data of users (if applicable), collected or created by providing of technical support to users, is stored during the period of the User Account that has applied for support in order to provide an optimal solution to issues and problems. Information that does not contain personal data can be stored for the entire duration of the Project.
+
+4. COOKIES
+
+This type of information is a text file that helps to remember information about you. The Data shall not include any anonymous information that we are unable to relate to you. Such information may include Internet protocol (IP) addresses, the browser type, Internet service providers (ISP), referring/exit pages, operating systems, date/time stamps, and clickstream data. However, this information does not identify a particular user. We do not combine such information with any personal data.
+
+We use a third-party tracking service that uses cookies and similar technology to track non-personal or private information on users and mobile application taken together (where applicable).
+
+We use this cookie information for the following purposes:
+
+To improve the Project and (or) Service content and performance;
+To analyze trends and estimate our audience size and usage pattern;
+To administer the web sites and speed up your searches;
+To enable log in and authentication when you log onto our web sites;
+To recognize you when you return to our web sites;
+To deliver a better and more personalized services.
+You may specify in your browser settings what kind of cookies your device should get and store. Our system will send cookies upon visiting the web sites, unless you have disabled this option in your browser settings. However, certain special features of the Project and (or) Service may not be available to you, if you do not accept our cookies policy.
+
+All major browsers offer advises and guidance for managing cookies to be available in your browser. To simplify the configuration of cookies please find links to cookies instructions in some browsers and advertising agents below:
+
+Internet Explorer
+
+https://support.microsoft.com/ru-ru/help/17442/windows-internet-explorer-delete-manage-cookies
+
+Google Chrome
+
+https://policies.google.com/technologies/cookies?hl=ru
+
+Safari
+
+https://www.apple.com/ru/legal/privacy/ru/cookies/
+
+Yandex
+
+https://yandex.com/support/metrica/general/opt-out.html
+
+Facebook
+
+https://www.facebook.com/help/499864970040521
+
+VK.com
+
+https://vk.com/privacy
+
+OK.RU
+
+https://ok.ru/res/privacypolicyRu.html
+
+Please note, the above list of contractors is non-exhaustive and does not guarantee that we currently use all services of such companies. Since such list may be updated on occasional basis, you may request an up-to-date list by e-mail: redpandasgamestudio@gmail.com.
+
+To learn more about cookies, including which ones are on your computer, and how to manage or delete them, we can recommend you to visit: www.allaboutcookies.org.
+
+Some functionality can use the Google Analytics service to track your activity. If you want to stop tracking by Google Analytics across all websites, please visit http://tools.google.com/dlpage/gaoptout.
+
+5. LOCAL LEGISLATION
+
+We provide you with access to international projects and strive to comply with applicable local laws. Please note that our Services are provided "as is" and you should get to know with applicable laws. By continuing your use of the Project, you are warrant that your use of the Project is not contrary to the applicable law and Terms of Service.
+
+Please note we do not sell user's Personal Data in California. Data transfer is carried out in order to provide the Services legally.
+
+6. REASONS FOR DATA PROCESSING
+
+We process your Data only when necessary to provide access to the Project and (or) Services, while taking reasonable security measures to protect your Data from loss, misuse and unauthorized access, disclosure, modification or destruction.
+
+With respect to the users covered by the General Data Protection Regulation (EU) 2016/679 (hereinafter - the "GDPR"), we use the Data collected through the Project and (or) Services for the purposes of our legitimate interests in accordance with Article 6(1)(f) of the GDPR as well as for the purposes stipulated in the Terms of Service and this Policy. E.g., we may use information we collect -
+
+to provide our Services or information you request as well as to process and complete any transactions;
+to respond to your submissions, questions, comments, requests and complaints as well as to provide customer service;
+to monitor and analyze the Project's use and trends or to personalize and improve the Project or user experience on our web sites, such as providing ads, Content or features that match their profiles or interests as well as to increase the Project's functionality and user friendliness;
+to provide gifts and rewards that you may have to win in the Project etc.;
+to send you confirmations, updates, security alerts as well as support and administrative messages and otherwise to facilitate your use of and our administration and operation of our web sites;
+and any other purpose for which the information is collected.
+Data is collected when you provide it within the Project and (or) Service. Indirect collection shall be allowed only on anonymous basis.
+
+7. DATA PROTECTION
+
+The project implemented reliable means of protection to ensure the security of your data. We do everything possible for your safety when using the Project and are constantly improving our information protection methods. As some means of protecting information from unauthorized access, alteration, disclosure or destruction, we use the following methods:
+
+- data encryption during storage and transmission;
+
+- we carry out two-stage user authentication when requesting an action with the Data;
+
+- we improve the techniques and methods of collecting, storing and processing the Data;
+
+- access to the Data, in encrypted and impersonal form, have only authorized employees, consultants or interested groups of people who need access to this information to perform their duties;
+
+- all persons having access to the Data are briefed on working with data, their knowledge and skills are systematically being checked.
+
+In spite of all measures taken by us, your careful attitude to the Account and access to it has a great importance in the safety of your Data. To prevent unauthorized access to your Data and Account, we strongly recommend you not to share access to the account to any third parties and to comply with the rules of the project and use of the Services. In case of your violation of the Terms of Use of the Services, we will not be able to guarantee the security of your Data.
+
+8. DATA MANAGEMENT
+
+You have all the technical capabilities to determine how the Data shall be used. We are constantly improving the data management methods available to you.
+
+You can form a request within the Project by sending a request in the Help section.
+
+In addition, you may send a request to an email redpandasgamestudio@gmail.com.
+
+PAY ATTENTION that requests for data management by e-mail address require additional identification of you as a data subject. Requests are subject to identification and verification. We will not be able to fulfill your request if insufficient information is provided, and we will not be able to verify whether the applicant is the user whose data we are processing. This is necessary to keep your data safe. After identification and through the appeal form in the Project, you have the right:
+
+- at any time withdraw your consent for Data Processing given in full or in part;
+
+- access to your Data received by us, i.e. you may request the information on the Data's storage and access as well as a copy of such Data;
+
+- require limitation of Data processing for the time required to verify the reliability of the information provided;
+
+- change the Data. You may discretionary determine the Data, which shall be associated with your Account.
+
+- object to the processing of your Data. If you believe that we have no legitimate reason for processing your Data, please contact us using the contacts provided below.
+
+You may also file a complaint with the local supervisory authority:
+
+- to implement your right to data portability where there is a technical capability to do so;
+
+- delete your Account and Data related therewith.
+
+The procedure for withdrawing consent to the processing and deletion of Data:
+
+PLEASE NOTE that the Data is used by us solely for the purpose of providing you access to the Project and improving the quality of the Services. By deleting of Account Data, you will lose access to the Project and your Data will be permanently deleted.
+
+Requests that are not related to us or to the topic of the processing of personal data in accordance with applicable law may be left unanswered or unacted the subject in question. The request should include the following:
+
+1. A clear, unambiguous request, indicating the exercised right in relation to your personal data;
+
+2. Information that will allow us to individualize you in the Project.
+
+3. Information that will allow us to contact you, including your email address.
+
+The order of execution of the request:
+
+1. An initial request that meets the requirements of this Policy can be sent by a special contact form or to redpandasgamestudio@gmail.com.
+
+2. Verification of the request - is carried out by us in order to verify the compliance of the request. We carry out user verification and may request additional actions from you in order to confirm ownership of the Data. These actions are necessary for data security. The result of a positive verification is a request for confirmation of the user's decision. It is necessary to prevent accidental loss of access to the Project.
+
+3. Confirmation of the request - carried out by you through the specified and verified email address.
+
+4. Execution of the request - carried out within 30 days from the date of confirmation of the request. This period is necessary for organizational and technical measures to fulfill your request.
+
+PAY ATTENTION, We reserve the right to refuse to fulfill the request if the ownership of the Data is not confirmed by the User and (or) the request affects the rights and freedoms of others.
+
+
+9. FINAL PROVISIONS
+
+We reserve the right to modify this Policy at any time, so please review it on a periodic basis.
+
+This Policy is made in English language. We can provide you with a translation in French, German, Italian, Spanish and Portuguese languages. In case of any inconsistency or discrepancies between a non-English translation of this Policy and the English version, the English version shall prevail.
